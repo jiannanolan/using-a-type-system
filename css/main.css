@@ -6,13 +6,14 @@
 
 html {
   box-sizing: border-box;
-}
--moz-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
 
-font-family: Georgia, serif;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+
+  font-family: Georgia, serif;
+  }
 
 *, *::before, *::after {
   box-sizing: inherit;
